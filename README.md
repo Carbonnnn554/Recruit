@@ -23,8 +23,8 @@ Web3 Companies Hiring
 - **Overseas BD Manager** （20-50k CNY/Month | Web3 Data Focus）
 
 ---
-> ⚠️ 注：薪资范围为税前月薪，具体以公司最终 offer 为准
->  Note: Salary ranges are pre-tax monthly amounts. Final offers subject to company policies.
+ ⚠️ 注：薪资范围为税前月薪，具体以公司最终 offer 为准
+ Note: Salary ranges are pre-tax monthly amounts. Final offers subject to company policies.
 > 
-> 📮 投递方式：在 Issues 区提交简历
-> 📮 How to Apply: Submit your resume via Issues
+📮 投递方式：在 Issues 区提交简历
+📮 How to Apply: Submit your resume via Issues
